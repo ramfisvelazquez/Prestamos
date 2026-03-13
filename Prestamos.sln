@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PrestamoService.cs", "PrestamoService.cs", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		PrestamoService.cs = PrestamoService.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Amortizacion.cs", "Amortizacion.cs", "{B397CCED-8CFA-498B-87EE-3A2D525CB698}"
+	ProjectSection(SolutionItems) = preProject
+		Amortizacion.cs = Amortizacion.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A72747D0-BF1D-4241-A9BB-2C657FE546FF}
+	EndGlobalSection
+EndGlobal
